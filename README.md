@@ -1,3 +1,8 @@
+# Project
+[![Build Status](https://travis-ci.org/sorinsi/djangorestframework-messagepack.svg?branch=master)](https://travis-ci.org/sorinsi/djangorestframework-messagepack)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/sorinsi/djangorestframework-messagepack/graphs/commit-activity)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/djangorestframework-messagepack/)
+
 
 # Overview
 MessagePack renderer and parser for Django Rest Framework to easily implement it in your application.
